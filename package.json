@@ -2,7 +2,8 @@
   "name": "server-name-generator",
   "version": "1.0.2",
   "description": "A random name generator for projects, servers, cluster nodes etc in Typescript.",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "dev": "ts-node src/index.ts",
     "build": "tsc",
