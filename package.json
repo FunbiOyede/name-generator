@@ -1,5 +1,5 @@
 {
-  "name": "name-generator",
+  "name": "server-name-generator",
   "version": "1.0.0",
   "description": "A random name generator for projects, servers, cluster nodes etc in Typescript. inspired by https://github.com/goombaio/namegenerator",
   "main": "index.js",
