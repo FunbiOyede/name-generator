@@ -1,0 +1,33 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "A random name generator for projects, servers, cluster nodes etc in Typescript. inspired by https://github.com/goombaio/namegenerator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunbiOyede/name-generator.git"
+  },
+  "keywords": [
+    "name-generator",
+    "typescript",
+    "ts",
+    "js",
+    "typescript"
+  ],
+  "author": "Funbi Oyede",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FunbiOyede/name-generator/issues"
+  },
+  "homepage": "https://github.com/FunbiOyede/name-generator#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  },
+  "dependencies": {}
+}

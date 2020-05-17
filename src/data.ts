@@ -1,4 +1,7 @@
-const Adjectives: string[] = [
+
+
+
+export const Adjectives: string[] = [
     "Adorable","Adventurous","Agressive","Alert","Alive",
     "Amused","Angry","Annoyed","Annoying","silent", "empty", "dry", "dark", "summer",
     "icy", "delicate", "quiet", "white", "cool", "spring", "winter", "patient",
@@ -10,7 +13,7 @@ const Adjectives: string[] = [
     "restless", "divine", "polished", "ancient", "purple", "lively", "nameless"
 ]
 
-const Nouns: string[] = [
+ export const Nouns: string[] = [
     "waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
     "snow", "lake", "sunset", "pine", "shadow", "leaf", "dawn", "glitter", "forest",
     "hill", "cloud", "meadow", "sun", "glade", "bird", "brook", "butterfly",
