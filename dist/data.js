@@ -8,7 +8,7 @@ const Adjectives = [
     "bold", "little", "morning", "muddy", "old", "red", "rough", "still", "small",
     "sparkling", "throbbing", "shy", "wandering", "withered", "wild", "black",
     "young", "holy", "solitary", "fragrant", "aged", "snowy", "proud", "floral",
-    "restless", "divine", "polished", "ancient", "purple", "lively", "nameless"
+    "restless", "divine", "polished", "ancient", "purple", "lively", "nameless", "circular","triangular"
 ];
 const Nouns = [
     "waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
