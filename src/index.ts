@@ -1,3 +1,1 @@
-import generator from './generator';
-const gen = new generator();
-console.log(gen.generate())
+export { default as generate } from './generator';
