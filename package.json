@@ -1,7 +1,7 @@
 {
   "name": "server-name-generator",
   "version": "1.0.0",
-  "description": "A random name generator for projects, servers, cluster nodes etc in Typescript. inspired by https://github.com/goombaio/namegenerator",
+  "description": "A random name generator for projects, servers, cluster nodes etc in Typescript.",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node src/index.ts",
